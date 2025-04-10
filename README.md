@@ -23,3 +23,29 @@ This Smart Contact Book is a console-based Java application designed to manage c
 -✅ File Handling: Java File I/O for saving and loading contact data
 -✅ Database: No external database is used; file system stores contact data
 
+📋 How to Run the Project
+https://github.com/Kefayet140/Smart-Contact-Book
+
+📂Using the Application:
+Add a new contact with name, phone number, and email.
+Update or delete existing contacts.
+Search for a contact by name or other details.
+Sort and view contacts in alphabetical order.
+Save and load your contacts using the file system.
+
+📂 File Handling Details
+Contact Data is stored in a .dat file located in the data/ folder.
+The application loads contact data at startup and saves any changes when the program ends.
+
+🔧 Future Enhancements
+Add more contact fields (e.g., address, birthday).
+Implement a Graphical User Interface (GUI) using JavaFX or Swing for easier interaction.
+Add more advanced sorting options (e.g., by phone number, email).
+Implement encryption for better data security.
+
+📚 References
+Java: The Complete Reference by Herbert Schildt.
+Java Programming and OOP Concepts from various online tutorials.
+ChatGPT for assistance with debugging and improving code.
+
+
